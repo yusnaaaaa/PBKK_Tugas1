@@ -1,0 +1,10 @@
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 1\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 1\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 1\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\KULIAH\SEMESTER 5\PEMROGRAMAN BERBASIS KERANGKA KERJA\Tugas 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
